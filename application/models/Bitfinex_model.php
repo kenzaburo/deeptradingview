@@ -45,6 +45,8 @@ class Bitfinex_model extends CI_Model
             $left_pair = $left;
             $right_pair = $right;
             $url = "https://api.bitfinex.com/v1/trades/$code?timestamp=$start_time&&limit_trades=$limit";
+
+            //
             try{
                 $curl = curl_init();
                 curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
@@ -72,7 +74,9 @@ class Bitfinex_model extends CI_Model
                 $buy_amount = 0; 
                 $buy_price_sum = 0;
                 $buy_count = 0;
+                $total_trade_count = 0;
                 foreach ( $result as $fieds) {
+                    $total_trade_count++;
                         if($fieds->type =='sell'){
                             $sell_amount += $fieds->amount;
                             $sell_count++;
@@ -95,6 +99,7 @@ class Bitfinex_model extends CI_Model
                 if($sell_count == 0 && $buy_count == 0){
                     return array("data"=>"");
                 }
+
                 $data = array(
                             "type" => $type,
                             "left_pair" => $left_pair,
@@ -107,15 +112,12 @@ class Bitfinex_model extends CI_Model
                             "sell_amount" =>$sell_amount,
 
                         );
-
                 $this->db->insert(COINMASTER_SCHEMAS . "." . REAL_1M_TRADE, $data);
-
-                
             } catch(Exception $e) {
                 $result  = array('error_code' => $e->getCode() ,'error_msg' => $e->getMessage() );
             }
 
-        return array("data"=>$data);
+        return array("data.length"=>$total_trade_count);
         
     }
 

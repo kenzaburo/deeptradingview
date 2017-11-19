@@ -1,0 +1,838 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"str",
+				"strSelect"
+			],
+			[
+				"end",
+				"end_date"
+			],
+			[
+				"sta",
+				"start_date"
+			],
+			[
+				"lev",
+				"levels"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			],
+			[
+				"tha",
+				"thead	Tag"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"date",
+				"date_picker"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"scho",
+				"school_list"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"inc",
+				"includes"
+			],
+			[
+				"false",
+				"false"
+			],
+			[
+				"time",
+				"time_picker"
+			],
+			[
+				"inclu",
+				"includes"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"td",
+				"td_value"
+			],
+			[
+				"td_",
+				"td_value"
+			],
+			[
+				"data",
+				"data_arr"
+			],
+			[
+				"dat",
+				"data_arr"
+			],
+			[
+				"da",
+				"data_arr"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"json",
+				"jsonData"
+			],
+			[
+				"su",
+				"sum_count"
+			],
+			[
+				"sum",
+				"sum_total_count"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"jso",
+				"json_data_avg"
+			],
+			[
+				"js",
+				"json_data_avg"
+			],
+			[
+				"arr",
+				"arr_total"
+			],
+			[
+				"arr_",
+				"arr_total"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"draw",
+				"drawAverageTable"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"tot",
+				"total_num_hour"
+			],
+			[
+				"fi",
+				"first_el"
+			],
+			[
+				"tota",
+				"total_all"
+			],
+			[
+				"json_t",
+				"json_total_percent"
+			],
+			[
+				"ta",
+				"total_num_hour"
+			],
+			[
+				"av",
+				"avg_percent"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"l",
+				"level"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"cn",
+				"console"
+			],
+			[
+				"toi",
+				"toiletName"
+			],
+			[
+				"toilet",
+				"toiletName"
+			],
+			[
+				"dr",
+				"tlHourlyChartDrawer"
+			],
+			[
+				"s",
+				"split"
+			],
+			[
+				"j",
+				"jsonData"
+			],
+			[
+				"cha",
+				"chartTitle"
+			],
+			[
+				"char",
+				"chart-container"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"le",
+				"level"
+			],
+			[
+				"lel",
+				"levels"
+			],
+			[
+				"upda",
+				"updateSections"
+			],
+			[
+				"lo",
+				"locations"
+			],
+			[
+				"vis",
+				"visit_freq"
+			],
+			[
+				"dwe",
+				"dwellChartDrawer"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"vl",
+				"value"
+			],
+			[
+				"ma",
+				"maxDate"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"chart",
+				"chartType"
+			],
+			[
+				"return",
+				"returnedData"
+			],
+			[
+				"con",
+				"console"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\n\n<!DOCTYPE html>\n<!--[if IE 8]><html class=\"no-js lt-ie9\" lang=\"en\" > <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en\" > <!--<![endif]-->\n<head\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  \n  <title>Upgrading From a Previous Version &mdash; CodeIgniter 3.0.4 documentation</title>\n  \n\n  \n  \n    <link rel=\"shortcut icon\" href=\"../_static/ci-icon.ico\"/>\n  \n\n  \n  <link href='https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic|Roboto+Slab:400,700|Inconsolata:400,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>\n\n  \n  \n    \n\n  \n\n  \n  \n    <link rel=\"stylesheet\" href=\"../_static/css/citheme.css\" type=\"text/css\" />\n  \n\n  \n    <link rel=\"top\" title=\"CodeIgniter 3.0.4 documentation\" href=\"../index.html\"/>\n        <link rel=\"up\" title=\"Installation Instructions\" href=\"index.html\"/>\n        <link rel=\"next\" title=\"Upgrading from 3.0.3 to 3.0.4\" href=\"upgrade_304.html\"/>\n        <link rel=\"prev\" title=\"Downloading CodeIgniter\" href=\"downloads.html\"/> \n\n  \n  <script src=\"https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js\"></script>\n\n</head>\n\n<body class=\"wy-body-for-nav\" role=\"document\">\n\n  <div id=\"nav\">\n  <div id=\"nav_inner\">\n    \n    \n    \n      <div id=\"pulldown-menu\" class=\"ciNav\">\n        <ul>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"../general/welcome.html\">Welcome to CodeIgniter</a><ul class=\"simple\">\n</ul>\n</li>\n</ul>\n<ul class=\"current\">\n<li class=\"toctree-l1 current\"><a class=\"reference internal\" href=\"index.html\">Installation Instructions</a><ul class=\"current\">\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"downloads.html\">Downloading CodeIgniter</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"index.html\">Installation Instructions</a></li>\n<li class=\"toctree-l2 current\"><a class=\"current reference internal\" href=\"\">Upgrading From a Previous Version</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"troubleshooting.html\">Troubleshooting</a></li>\n</ul>\n</li>\n</ul>\n<ul>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"../overview/index.html\">CodeIgniter Overview</a><ul>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../overview/getting_started.html\">Getting Started</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../overview/at_a_glance.html\">CodeIgniter at a Glance</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../overview/features.html\">Supported Features</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../overview/appflow.html\">Application Flow Chart</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../overview/mvc.html\">Model-View-Controller</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../overview/goals.html\">Architectural Goals</a></li>\n</ul>\n</li>\n</ul>\n<ul>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"../tutorial/index.html\">Tutorial</a><ul>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../tutorial/static_pages.html\">Static pages</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../tutorial/news_section.html\">News section</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../tutorial/create_news_items.html\">Create news items</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../tutorial/conclusion.html\">Conclusion</a></li>\n</ul>\n</li>\n</ul>\n<ul>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"../contributing/index.html\">Contributing to CodeIgniter</a><ul>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../documentation/index.html\">Writing CodeIgniter Documentation</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../DCO.html\">Developer&#8217;s Certificate of Origin 1.1</a></li>\n</ul>\n</li>\n</ul>\n<ul>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"../general/index.html\">General Topics</a><ul>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/urls.html\">CodeIgniter URLs</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/controllers.html\">Controllers</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/reserved_names.html\">Reserved Names</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/views.html\">Views</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/models.html\">Models</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/helpers.html\">Helpers</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/libraries.html\">Using CodeIgniter Libraries</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/creating_libraries.html\">Creating Libraries</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/drivers.html\">Using CodeIgniter Drivers</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/creating_drivers.html\">Creating Drivers</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/core_classes.html\">Creating Core System Classes</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/ancillary_classes.html\">Creating Ancillary Classes</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/hooks.html\">Hooks - Extending the Framework Core</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/autoloader.html\">Auto-loading Resources</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/common_functions.html\">Common Functions</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/compatibility_functions.html\">Compatibility Functions</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/routing.html\">URI Routing</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/errors.html\">Error Handling</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/caching.html\">Caching</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/profiling.html\">Profiling Your Application</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/cli.html\">Running via the CLI</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/managing_apps.html\">Managing your Applications</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/environments.html\">Handling Multiple Environments</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/alternative_php.html\">Alternate PHP Syntax for View Files</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/security.html\">Security</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/styleguide.html\">PHP Style Guide</a></li>\n</ul>\n</li>\n</ul>\n<ul>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"../libraries/index.html\">Libraries</a><ul>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/benchmark.html\">Benchmarking Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/caching.html\">Caching Driver</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/calendar.html\">Calendaring Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/cart.html\">Shopping Cart Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/config.html\">Config Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/email.html\">Email Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/encrypt.html\">Encrypt Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/encryption.html\">Encryption Library</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/file_uploading.html\">File Uploading Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/form_validation.html\">Form Validation</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/ftp.html\">FTP Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/image_lib.html\">Image Manipulation Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/input.html\">Input Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/javascript.html\">Javascript Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/language.html\">Language Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/loader.html\">Loader Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/migration.html\">Migrations Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/output.html\">Output Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/pagination.html\">Pagination Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/parser.html\">Template Parser Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/security.html\">Security Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/sessions.html\">Session Library</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/table.html\">HTML Table Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/trackback.html\">Trackback Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/typography.html\">Typography Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/unit_testing.html\">Unit Testing Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/uri.html\">URI Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/user_agent.html\">User Agent Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/xmlrpc.html\">XML-RPC and XML-RPC Server Classes</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/zip.html\">Zip Encoding Class</a></li>\n</ul>\n</li>\n</ul>\n<ul>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"../database/index.html\">Database Reference</a><ul>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../database/examples.html\">Quick Start: Usage Examples</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../database/configuration.html\">Database Configuration</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../database/connecting.html\">Connecting to a Database</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../database/queries.html\">Running Queries</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../database/results.html\">Generating Query Results</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../database/helpers.html\">Query Helper Functions</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../database/query_builder.html\">Query Builder Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../database/transactions.html\">Transactions</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../database/metadata.html\">Getting MetaData</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../database/call_function.html\">Custom Function Calls</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../database/caching.html\">Query Caching</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../database/forge.html\">Database Manipulation with Database Forge</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../database/utilities.html\">Database Utilities Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../database/db_driver_reference.html\">Database Driver Reference</a></li>\n</ul>\n</li>\n</ul>\n<ul>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"../helpers/index.html\">Helpers</a><ul>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/array_helper.html\">Array Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/captcha_helper.html\">CAPTCHA Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/cookie_helper.html\">Cookie Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/date_helper.html\">Date Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/directory_helper.html\">Directory Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/download_helper.html\">Download Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/email_helper.html\">Email Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/file_helper.html\">File Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/form_helper.html\">Form Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/html_helper.html\">HTML Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/inflector_helper.html\">Inflector Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/language_helper.html\">Language Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/number_helper.html\">Number Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/path_helper.html\">Path Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/security_helper.html\">Security Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/smiley_helper.html\">Smiley Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/string_helper.html\">String Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/text_helper.html\">Text Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/typography_helper.html\">Typography Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/url_helper.html\">URL Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/xml_helper.html\">XML Helper</a></li>\n</ul>\n</li>\n</ul>\n\n      </div>\n    \n      \n  </div>\n</div>\n<div id=\"nav2\">\n  <a href=\"#\" id=\"openToc\">\n    <img src=\"data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAZABkAAD/7AARRHVja3kAAQAEAAAARgAA/+4ADkFkb2JlAGTAAAAAAf/bAIQABAMDAwMDBAMDBAYEAwQGBwUEBAUHCAYGBwYGCAoICQkJCQgKCgwMDAwMCgwMDQ0MDBERERERFBQUFBQUFBQUFAEEBQUIBwgPCgoPFA4ODhQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQU/8AAEQgAKwCaAwERAAIRAQMRAf/EAHsAAQAABwEBAAAAAAAAAAAAAAABAwQFBgcIAgkBAQAAAAAAAAAAAAAAAAAAAAAQAAEDAwICBwYEAgsAAAAAAAIBAwQAEQUSBiEHkROTVNQWGDFBUVIUCHEiMtOUFWGBobHRQlMkZIRVEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDSC+ygkOOaUoKigUCgUCgUCgUCgUCgUCgUCgkuGguIP9FBMFb0Hqg7We+3jlmIqqYFf4ub+/QYlnOR/LqIBKGFUbf8qWv971BytQXXE7Y3Lnm3HsFhp2TaZJAdchRXpIgSpdEJWxJEW3xoKV7F5OMy7JkQn2o7D6w33XGjEAkoiqrJEqIiOIiKuhePCgqp22dyYyS3CyWHnQ5joG61HkRnmnTbaFSMhExRVQRRVJU9iUHjE7ez+fJ0MFipmUNhBV8YUd2SoIV9KkjQla9ltegttBdPLW4/qocL+UTfrMiHW4+P9M71shuyrqaHTcxsl7jegpsji8nh5ZwMvDfgTm0RTjSmjYdFCS6KoOIipdFunCgmNYTMv457MMY6U7iI6oMieDDhRm1VbIhuoOkbqtuK0Hpzb+eZcYZexUxt6UyUqK2cd0SdjtgrhOgijcgERUlJOCIl6CpgbP3blRI8XgMjNARAyKNDfeRBdFDBVUAXgQrqH4pxoJTu2NysY97LP4ac1io5q1InHFeGO24LnVKJuKOkSQ/yKir+rh7aCLG1dzypZQI2FnvTgccYOM3FeN0XWERXAUEFVQgQkUktdLpegm+Td3/Xli/L+S/mYNJIOF9G/wBeLKrZHFb0akG6W1WtQWSg3Dyg5e7V3fipE3O4/wCrktyzYA+ufas2LbZIlmnAT2kvuoN1wft95augilglX/tzP3qCu9O3LL/wV/i5v79BvmTADq14UGu91467Z6U9y0HzH/ncj/U/sT/CgynZG7I2NezpZGUjIycJkYkZSG+uQ81pbBNKLxJfjwoMqZ3/ALYHl35AJ7/cuwHcu5k7r1Q5pHetBjquqVVJWGxj9Zrtcl/Ggy3dHMvauR3HFZj5nHNxSyW5JISYDMoIwx8tFIGHZhPNaykGapr6rUAiicEoMG21lMRj8buPAz8xhJrr7uOeiPTCyAwXUaGR1mgozbTusOsFLEiJ7fbQa/h7gcjy2H3V6xppwDNtUSxCJIqp7valBuWVzJ22xuCROXNNZiJkMtms0DbjUkAZjzoDrTMd9dDRI44ZC2YsrYdKWP2WDT2S3N9dNdlRYrGMYc06IURXSYb0igrpWS485xVNS6nF4rwslkoMwnbpgZLB7bmt5uMweAhDEl4B5uSLzzqTnnyVpW2jaJHRMSIjdDiiotvy3DOE5rYTEbkl5yFn28k7JyG4c7AU2HtLH1uKfaiMPI40CdYbpNtmLdwTSn5rewLNld+7TLdeal4WarWBkbVKBjgdElMJJwAAY5fl4kB3b1fp4XvagsGS3FjJfLzDNtS8aeXx7LzT7TyzByQE5PccRGRC0ZRUDRV6y62vbjagzLmJzS2vuPK43JY6aP1TW6Jz+RIWyFtyC06y3EkiiinAo7YCqfq1AqqnGgsOH3lhZO8d1pmcpB8j5XIm9OYlBJSQ/FSS4427DKO0RC8AlcEMhFdViRR1WDWR5t3WXVuL1d106kG9vdeye2g60+1FDyW0shIcXVpyroXt8I8dfd+NB1vioAdWnD3UF1+gD4UFc6CEKpagxXN43rwJLUHz7yX2c8zokt9uHlsPIhA4aRnnHJTLptIS6CNsY7iASpxUUMkReGpfbQW0vtN5pitvrsN28rwtBD0nc0+/Yft5XhaB6TuaXfsP28rwtA9J3NPv2H7eV4Wgek7mn37D9vK8LQPSdzT79h+3leFoHpO5pd+w/byvC0D0nc0u/Yft5XhaB6TuaXfsP28rwtA9J3NLv2H7eV4Wgek7ml37D9vK8LQPSdzS79h+3leFoHpO5p9+w/byvC0E9r7Reazy2HIYVPxkS/CUHVn26cosxyv2g7h89LYmZSXOenvLEQ1YaQ222RATcQCP8rSGqqA8S02W2pQ6FhMoAIlqCtsnwoCpdKClejI4i3Sgtb+GBxVuNBSFt1pV/RQefLjPyUDy4z8lA8uM/JQPLjPyUDy4z8lA8uM/JQPLjPyUDy4z8lA8uM/JQPLjPyUDy4z8lA8utJ/koJ7WCbBU/LQXOPAFq1koK8B0pag90CggtBBf6qB0UDooHRQOigdFA6KB0UDooHRQOigdFA6KB0UDooI0EaBQf//Z\" title=\"Toggle Table of Contents\" alt=\"Toggle Table of Contents\" />\n  </a>\n</div>\n\n  <div class=\"wy-grid-for-nav\">\n\n    \n    <nav data-toggle=\"wy-nav-shift\" class=\"wy-nav-side\">\n      <div class=\"wy-side-nav-search\">\n        \n          <a href=\"../index.html\" class=\"fa fa-home\"> CodeIgniter</a>\n        \n        \n<div role=\"search\">\n  <form id=\"rtd-search-form\" class=\"wy-form\" action=\"../search.html\" method=\"get\">\n    <input type=\"text\" name=\"q\" placeholder=\"Search docs\" />\n    <input type=\"hidden\" name=\"check_keywords\" value=\"yes\" />\n    <input type=\"hidden\" name=\"area\" value=\"default\" />\n  </form>\n</div>\n      </div>\n\n      <div class=\"wy-menu wy-menu-vertical\" data-spy=\"affix\" role=\"navigation\" aria-label=\"main navigation\">\n        \n          \n          \n              <ul>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"../general/welcome.html\">Welcome to CodeIgniter</a><ul class=\"simple\">\n</ul>\n</li>\n</ul>\n<ul class=\"current\">\n<li class=\"toctree-l1 current\"><a class=\"reference internal\" href=\"index.html\">Installation Instructions</a><ul class=\"current\">\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"downloads.html\">Downloading CodeIgniter</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"index.html\">Installation Instructions</a></li>\n<li class=\"toctree-l2 current\"><a class=\"current reference internal\" href=\"\">Upgrading From a Previous Version</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"troubleshooting.html\">Troubleshooting</a></li>\n</ul>\n</li>\n</ul>\n<ul>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"../overview/index.html\">CodeIgniter Overview</a><ul>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../overview/getting_started.html\">Getting Started</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../overview/at_a_glance.html\">CodeIgniter at a Glance</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../overview/features.html\">Supported Features</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../overview/appflow.html\">Application Flow Chart</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../overview/mvc.html\">Model-View-Controller</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../overview/goals.html\">Architectural Goals</a></li>\n</ul>\n</li>\n</ul>\n<ul>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"../tutorial/index.html\">Tutorial</a><ul>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../tutorial/static_pages.html\">Static pages</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../tutorial/news_section.html\">News section</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../tutorial/create_news_items.html\">Create news items</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../tutorial/conclusion.html\">Conclusion</a></li>\n</ul>\n</li>\n</ul>\n<ul>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"../contributing/index.html\">Contributing to CodeIgniter</a><ul>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../documentation/index.html\">Writing CodeIgniter Documentation</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../DCO.html\">Developer&#8217;s Certificate of Origin 1.1</a></li>\n</ul>\n</li>\n</ul>\n<ul>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"../general/index.html\">General Topics</a><ul>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/urls.html\">CodeIgniter URLs</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/controllers.html\">Controllers</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/reserved_names.html\">Reserved Names</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/views.html\">Views</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/models.html\">Models</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/helpers.html\">Helpers</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/libraries.html\">Using CodeIgniter Libraries</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/creating_libraries.html\">Creating Libraries</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/drivers.html\">Using CodeIgniter Drivers</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/creating_drivers.html\">Creating Drivers</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/core_classes.html\">Creating Core System Classes</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/ancillary_classes.html\">Creating Ancillary Classes</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/hooks.html\">Hooks - Extending the Framework Core</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/autoloader.html\">Auto-loading Resources</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/common_functions.html\">Common Functions</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/compatibility_functions.html\">Compatibility Functions</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/routing.html\">URI Routing</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/errors.html\">Error Handling</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/caching.html\">Caching</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/profiling.html\">Profiling Your Application</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/cli.html\">Running via the CLI</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/managing_apps.html\">Managing your Applications</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/environments.html\">Handling Multiple Environments</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/alternative_php.html\">Alternate PHP Syntax for View Files</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/security.html\">Security</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../general/styleguide.html\">PHP Style Guide</a></li>\n</ul>\n</li>\n</ul>\n<ul>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"../libraries/index.html\">Libraries</a><ul>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/benchmark.html\">Benchmarking Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/caching.html\">Caching Driver</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/calendar.html\">Calendaring Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/cart.html\">Shopping Cart Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/config.html\">Config Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/email.html\">Email Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/encrypt.html\">Encrypt Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/encryption.html\">Encryption Library</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/file_uploading.html\">File Uploading Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/form_validation.html\">Form Validation</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/ftp.html\">FTP Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/image_lib.html\">Image Manipulation Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/input.html\">Input Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/javascript.html\">Javascript Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/language.html\">Language Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/loader.html\">Loader Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/migration.html\">Migrations Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/output.html\">Output Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/pagination.html\">Pagination Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/parser.html\">Template Parser Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/security.html\">Security Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/sessions.html\">Session Library</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/table.html\">HTML Table Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/trackback.html\">Trackback Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/typography.html\">Typography Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/unit_testing.html\">Unit Testing Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/uri.html\">URI Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/user_agent.html\">User Agent Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/xmlrpc.html\">XML-RPC and XML-RPC Server Classes</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../libraries/zip.html\">Zip Encoding Class</a></li>\n</ul>\n</li>\n</ul>\n<ul>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"../database/index.html\">Database Reference</a><ul>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../database/examples.html\">Quick Start: Usage Examples</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../database/configuration.html\">Database Configuration</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../database/connecting.html\">Connecting to a Database</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../database/queries.html\">Running Queries</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../database/results.html\">Generating Query Results</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../database/helpers.html\">Query Helper Functions</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../database/query_builder.html\">Query Builder Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../database/transactions.html\">Transactions</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../database/metadata.html\">Getting MetaData</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../database/call_function.html\">Custom Function Calls</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../database/caching.html\">Query Caching</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../database/forge.html\">Database Manipulation with Database Forge</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../database/utilities.html\">Database Utilities Class</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../database/db_driver_reference.html\">Database Driver Reference</a></li>\n</ul>\n</li>\n</ul>\n<ul>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"../helpers/index.html\">Helpers</a><ul>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/array_helper.html\">Array Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/captcha_helper.html\">CAPTCHA Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/cookie_helper.html\">Cookie Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/date_helper.html\">Date Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/directory_helper.html\">Directory Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/download_helper.html\">Download Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/email_helper.html\">Email Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/file_helper.html\">File Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/form_helper.html\">Form Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/html_helper.html\">HTML Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/inflector_helper.html\">Inflector Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/language_helper.html\">Language Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/number_helper.html\">Number Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/path_helper.html\">Path Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/security_helper.html\">Security Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/smiley_helper.html\">Smiley Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/string_helper.html\">String Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/text_helper.html\">Text Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/typography_helper.html\">Typography Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/url_helper.html\">URL Helper</a></li>\n<li class=\"toctree-l2\"><a class=\"reference internal\" href=\"../helpers/xml_helper.html\">XML Helper</a></li>\n</ul>\n</li>\n</ul>\n\n          \n        \n      </div>\n      &nbsp;\n    </nav>\n\n    <section data-toggle=\"wy-nav-shift\" class=\"wy-nav-content-wrap\">\n\n      \n      <nav class=\"wy-nav-top\" role=\"navigation\" aria-label=\"top navigation\">\n        <i data-toggle=\"wy-nav-top\" class=\"fa fa-bars\"></i>\n        <a href=\"../index.html\">CodeIgniter</a>\n      </nav>\n\n\n      \n      <div class=\"wy-nav-content\">\n        <div class=\"rst-content\">\n          <div role=\"navigation\" aria-label=\"breadcrumbs navigation\">\n  <ul class=\"wy-breadcrumbs\">\n    <li><a href=\"../index.html\">Docs</a> &raquo;</li>\n      \n        <li><a href=\"index.html\">Installation Instructions</a> &raquo;</li>\n      \n    <li>Upgrading From a Previous Version</li>\n    <li class=\"wy-breadcrumbs-aside\">\n      \n    </li>\n    <div style=\"float:right;margin-left:5px;\" id=\"closeMe\">\n      <img title=\"Classic Layout\" alt=\"classic layout\" src=\"data:image/gif;base64,R0lGODlhFAAUAJEAAAAAADMzM////wAAACH5BAUUAAIALAAAAAAUABQAAAImlI+py+0PU5gRBRDM3DxbWoXis42X13USOLauUIqnlsaH/eY6UwAAOw==\" />\n    </div>\n  </ul>\n  <hr/>\n</div>\n          <div role=\"main\" class=\"document\">\n            \n  <div class=\"section\" id=\"upgrading-from-a-previous-version\">\n<h1>Upgrading From a Previous Version<a class=\"headerlink\" href=\"#upgrading-from-a-previous-version\" title=\"Permalink to this headline\">¶</a></h1>\n<p>Please read the upgrade notes corresponding to the version you are\nupgrading from.</p>\n<div class=\"toctree-wrapper compound\">\n<ul>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_304.html\">Upgrading from 3.0.3 to 3.0.4</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_303.html\">Upgrading from 3.0.2 to 3.0.3</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_302.html\">Upgrading from 3.0.1 to 3.0.2</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_301.html\">Upgrading from 3.0.0 to 3.0.1</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_300.html\">Upgrading from 2.2.x to 3.0.x</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_223.html\">Upgrading from 2.2.2 to 2.2.3</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_222.html\">Upgrading from 2.2.1 to 2.2.2</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_221.html\">Upgrading from 2.2.0 to 2.2.1</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_220.html\">Upgrading from 2.1.4 to 2.2.x</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_214.html\">Upgrading from 2.1.3 to 2.1.4</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_213.html\">Upgrading from 2.1.2 to 2.1.3</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_212.html\">Upgrading from 2.1.1 to 2.1.2</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_211.html\">Upgrading from 2.1.0 to 2.1.1</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_210.html\">Upgrading from 2.0.3 to 2.1.0</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_203.html\">Upgrading from 2.0.2 to 2.0.3</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_202.html\">Upgrading from 2.0.1 to 2.0.2</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_201.html\">Upgrading from 2.0 to 2.0.1</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_200.html\">Upgrading from 1.7.2 to 2.0</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_172.html\">Upgrading from 1.7.1 to 1.7.2</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_171.html\">Upgrading from 1.7.0 to 1.7.1</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_170.html\">Upgrading from 1.6.3 to 1.7.0</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_163.html\">Upgrading from 1.6.2 to 1.6.3</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_162.html\">Upgrading from 1.6.1 to 1.6.2</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_161.html\">Upgrading from 1.6.0 to 1.6.1</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_160.html\">Upgrading from 1.5.4 to 1.6.0</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_154.html\">Upgrading from 1.5.3 to 1.5.4</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_153.html\">Upgrading from 1.5.2 to 1.5.3</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_152.html\">Upgrading from 1.5.0 or 1.5.1 to 1.5.2</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_150.html\">Upgrading from 1.4.1 to 1.5.0</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_141.html\">Upgrading from 1.4.0 to 1.4.1</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_140.html\">Upgrading from 1.3.3 to 1.4.0</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_133.html\">Upgrading from 1.3.2 to 1.3.3</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_132.html\">Upgrading from 1.3.1 to 1.3.2</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_131.html\">Upgrading from 1.3 to 1.3.1</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_130.html\">Upgrading from 1.2 to 1.3</a><ul class=\"simple\">\n</ul>\n</li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_120.html\">Upgrading from 1.1 to 1.2</a></li>\n<li class=\"toctree-l1\"><a class=\"reference internal\" href=\"upgrade_b11.html\">Upgrading from Beta 1.0 to Beta 1.1</a><ul class=\"simple\">\n</ul>\n</li>\n</ul>\n</div>\n</div>\n\n\n          </div>\n          <footer>\n  \n    <div class=\"rst-footer-buttons\" role=\"navigation\" aria-label=\"footer navigation\">\n      \n        <a href=\"upgrade_304.html\" class=\"btn btn-neutral float-right\" title=\"Upgrading from 3.0.3 to 3.0.4\">Next <span class=\"fa fa-arrow-circle-right\"></span></a>\n      \n      \n        <a href=\"downloads.html\" class=\"btn btn-neutral\" title=\"Downloading CodeIgniter\"><span class=\"fa fa-arrow-circle-left\"></span> Previous</a>\n      \n    </div>\n  \n\n  <hr/>\n\n  <div role=\"contentinfo\">\n    <p>\n        &copy; Copyright 2014 - 2016, British Columbia Institute of Technology.\n      Last updated on Jan 13, 2016.\n    </p>\n  </div>\n\n  Built with <a href=\"http://sphinx-doc.org/\">Sphinx</a> using a <a href=\"https://github.com/snide/sphinx_rtd_theme\">theme</a> provided by <a href=\"https://readthedocs.org\">Read the Docs</a>.\n  \n</footer>\n        </div>\n      </div>\n\n    </section>\n\n  </div>\n  \n\n\n  \n\n    <script type=\"text/javascript\">\n        var DOCUMENTATION_OPTIONS = {\n            URL_ROOT:'../',\n            VERSION:'3.0.4',\n            COLLAPSE_INDEX:false,\n            FILE_SUFFIX:'.html',\n            HAS_SOURCE:  false\n        };\n    </script>\n      <script type=\"text/javascript\" src=\"../_static/jquery.js\"></script>\n      <script type=\"text/javascript\" src=\"../_static/underscore.js\"></script>\n      <script type=\"text/javascript\" src=\"../_static/doctools.js\"></script>\n\n  \n\n  \n  \n    <script type=\"text/javascript\" src=\"../_static/js/theme.js\"></script>\n  \n\n  \n  \n  <script type=\"text/javascript\">\n      jQuery(function () {\n          SphinxRtdTheme.StickyNav.enable();\n      });\n  </script>\n   \n\n</body>\n</html>",
+			"file": "user_guide/installation/upgrading.html",
+			"file_size": 40186,
+			"file_write_time": 130971173670000000,
+			"settings":
+			{
+				"buffer_size": 40184,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{\n    // For remote debugging to resolve the file locations\n    // it is required to configure the path mapping\n    // with the server path as key and local path as value.\n    //\n    // Make sure to use absolute path when defining server path,\n    // because Xdebug debugger engine does not return symbolic links.\n    //\n    // Example:\n    // \"/absolute/path/to/file/on/server\" : \"/path/to/file/on/computer\",\n    // \"/var/www/htdocs/example/\" : \"C:/git/websites/example/\"\n    \"path_mapping\": {\n\n    },\n\n    // Determine which URL to launch in the default web browser\n    // when starting/stopping a session.\n    \"url\": \"\",\n\n    // An IDE key is used to identify with debugger engine\n    // when Sublime Text will start or stop a debugging session.\n    //\n    // This package does not filter sessions by IDE key,\n    // it will accept any IDE key, also ones that do not match this configured IDE key.\n    // It is merely used when launching the default web browser with the configured URL.\n    \"ide_key\": \"sublime.xdebug\",\n\n    // Which port number Sublime Text should listen\n    // to connect with debugger engine.\n    \"port\": 9000,\n\n    // Show super globals in context view.\n    \"super_globals\": true,\n\n    // Maximum amount of array children\n    // and object's properties to return.\n    \"max_children\": 32,\n\n    // Maximum amount of\n    // variable data to initially retrieve.\n    \"max_data\": 1024,\n\n    // Maximum amount of nested levels to retrieve\n    // of array elements and object properties.\n    \"max_depth\": 1,\n\n    // Break at first line on session start, when debugger engine has connected.\n    \"break_on_start\": false,\n\n    // Break on exceptions, suspend execution\n    // when the exception name matches an entry in this list value.\n    \"break_on_exception\": [\n        // E_ERROR, E_CORE_ERROR, E_COMPILE_ERROR, E_USER_ERROR\n        \"Fatal error\",\n        // E_RECOVERABLE_ERROR (since PHP 5.2.0)\n        \"Catchable fatal error\",\n        // E_WARNING, E_CORE_WARNING, E_COMPILE_WARNING, E_USER_WARNING\n        \"Warning\",\n        // E_PARSE\n        \"Parse error\",\n        // E_NOTICE, E_USER_NOTICE\n        \"Notice\",\n        // E_STRICT\n        \"Strict standards\",\n        // E_DEPRECATED, E_USER_DEPRECATED (since PHP 5.3.0)\n        \"Deprecated\",\n        // 0\n        \"Xdebug\",\n        // default\n        \"Unknown error\"\n    ],\n\n    // Always close debug windows and restore layout on session stop.\n    \"close_on_stop\": false,\n\n    // Do not show possible password values in context output.\n    \"hide_password\": false,\n\n    // Show in output parsed response instead of raw XML.\n    \"pretty_output\": false,\n\n    // Always launch browser on session start/stop.\n    // Note: This will only work if you have the 'url' setting configured.\n    \"launch_browser\": false,\n\n    // When launching browser on session stop do not execute script.\n    // By using parameter XDEBUG_SESSION_STOP_NO_EXEC instead of XDEBUG_SESSION_STOP.\n    \"browser_no_execute\": false,\n\n    // Do not use the debugging window layout.\n    \"disable_layout\": false,\n\n    // Window layout that is being used when debugging.\n    \"debug_layout\" : {\n        \"cols\": [0.0, 0.5, 1.0],\n        \"rows\": [0.0, 0.7, 1.0],\n        \"cells\": [[0, 0, 2, 1], [0, 1, 1, 2], [1, 1, 2, 2]]\n    },\n\n    // Group and index positions for debug views.\n    \"breakpoint_group\": 2,\n    \"breakpoint_index\": 1,\n    \"context_group\": 1,\n    \"context_index\": 0,\n    \"stack_group\": 2,\n    \"stack_index\": 0,\n    \"watch_group\": 1,\n    \"watch_index\": 1,\n\n    // Custom gutter icons for indicating current line or enabled/disabled breakpoints.\n    //\n    // Do not use same icon for following values, because Sublime Text is unable\n    // to use the same icon for different scopes, in case there are duplicate icons\n    // detected it will fall back to the corresponding icon in the package.\n    \"breakpoint_enabled\": \"circle\",\n    \"breakpoint_disabled\": \"dot\",\n    \"breakpoint_current\": \"\",\n    \"current_line\": \"bookmark\",\n\n    // Path to Python installation on your system.\n    // Which is being used to load missing modules.\n    //\n    // It is recommended to configure your Python path for Sublime Text 2\n    // especially on older UNIX systems, where some modules (xml.parsers.expat)\n    // might be missing and could improve performance of package.\n    //\n    // Example:\n    // \"python_path\" : \"/usr/lib/python2.7\"\n    \"python_path\" : \"\",\n\n    // Show detailed log information about communication\n    // between debugger engine and Sublime Text.\n    // Log can be found at Packages/User/Xdebug.log\n    \"debug\": false\n}",
+			"file": "/C/Users/thuynhquang/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 4570,
+				"line_ending": "Windows",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 409.0,
+		"last_filter": "x",
+		"selected_items":
+		[
+			[
+				"x",
+				"Preferences: Xdebug Settings – Default"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 576.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/PortalAnalytics",
+		"/C/xampp/htdocs/PortalAnalytics/application"
+	],
+	"file_history":
+	[
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_107/multiselect_table.js",
+		"/D/projects/suntec_d/js/multiselect_table.js",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_95/configuration.ini",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_99/ts_hourly_api.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_100/ts_hourly.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_103/ts_daily_api.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_105/dashboard.css",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_106/ts_daily.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_104/ts_hourly.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_101/ts_hourly_api.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_102/ts_daily_api.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_84/ts_daily.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_89/api.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_98/ts_daily.php",
+		"/D/projects/suntec_d/tl_hourly_api.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_86/ts_daily.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_97/configuration.ini",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_91/configuration.ini",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_87/ts_daily_api.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_96/ts_daily_api.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_88/api.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_85/ts_daily_api.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_94/configuration.ini",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_93/api.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_92/configuration.ini",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_90/configuration.ini",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_71/navbar.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_81/ts_daily_api.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_80/api.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_78/ts_daily.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_82/api.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_83/ts_daily_api.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_79/ts_daily.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_75/heatmap.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_77/ts_daily.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_76/ts_daily.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_60/llusersanalytic_hourly.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_30/ts_daily.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_38/ts_daily.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_39/timeseries_chart.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_37/ts_hourly.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_36/barchart.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_65/dashboard.css",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_55/section_menu.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_54/time_picker.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_66/heatmap.css",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_64/dashboard.css",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_73/configuration.ini",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_74/changepassword.php",
+		"/D/projects/suntec_user",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_46/occupancy.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_47/transition.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_56/section_menu.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_57/level_menu.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_67/time_picker.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_61/school_list.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_68/heatmap.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_69/configuration.ini",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_51/multiselect_table.js",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_52/dwell_time.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_58/occupancy.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_59/timeseries_chart_llabanalytics_hourly.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_53/timeseries_chart_dwell_time.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_62/navbar.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_70/navbar.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_5_63/heatmap.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_31/dashboard.css",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_45/time_picker.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_42/llusersanalytic_hourly.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_41/timeseries_chart_dwell_time.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_40/dwell_time.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_32/repeat_clients.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_29/ts_hourly.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_35/transition.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_34/occupancy.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_43/timeseries_chart_llabanalytics_hourly.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_44/timeseries_chart_llabanalytics_hourly_sum.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_33/barchart.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_5/llusersanalytic_hourly.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_27/dwell_time.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_15/dashboard.css",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_28/section_menu.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_26/time_picker.php",
+		"/C/Users/thuynhquang/Downloads/bootstrap-3.3.6-dist/bootstrap-3.3.6-dist/css/bootstrap.min.css",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_17/ts_daily.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_22/ts_hourly.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_23/occupancy.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_24/transition.php",
+		"/C/Users/thuynhquang/Downloads/bootstrap-3.3.6-dist/bootstrap-3.3.6-dist/css/bootstrap.css",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_20/ts_daily.php_bk",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_19/timeseries_chart.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_21/dashboard.css",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_2/section_menu.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_1/level_menu.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_7/heatmap.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_6/occupancy.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_14/navbar.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_3/option_choices.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_18/dwell_time.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_4/sidebar_template.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_12/time_picker.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_8/date_picker.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_25/bootstrap.min.css",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_16/ts_hourly.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_11/ts_daily.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_13/ts_daily.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_10/dashboard.css",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_9/dashboard.css",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1706096_2_0/llusersanalytic_hourly.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1970326_12_78/ts_hourly.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1970326_13_82/transition.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1970326_12_74/section_menu.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1970326_12_75/level_menu.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1970326_13_81/level_menu.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1970326_13_83/llusersanalytic_hourly.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1970326_13_80/occupancy.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1970326_12_73/dwell_time.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1970326_12_58/ts_daily.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1970326_12_59/ts_daily_api.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1970326_13_84/school_list.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1970326_12_62/dashboard.css",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1970326_12_60/dwell_time.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1970326_12_79/date_picker.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1970326_12_77/occupancy.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1970326_12_71/transition.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1970326_12_65/level_menu.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1970326_12_67/section_menu.php",
+		"/C/Users/thuynhquang/Documents/MobaXterm/slash/RemoteFiles/1970326_12_66/time_picker.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"",
+			"D:\\projects\\intervention_engine_portal\\scripts",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getLevelData",
+			"style=\"margin-left:18px;\"",
+			"container",
+			"transition-chart",
+			"chart",
+			"resultTb",
+			"table",
+			"280px",
+			"height: 280px;",
+			"46",
+			"main",
+			"circular_heat",
+			"menu",
+			"#337ab7",
+			"hero-unit",
+			"hero",
+			"col-md-2",
+			"body",
+			"char",
+			"</label>",
+			"<label>",
+			"label",
+			"onmousedown=\"RowLevelClick(this,false,event);\"",
+			"onmousedown=\"RowLevelClick(this,false,event) ;\"",
+			"<tr ",
+			"style=\"border-bottom: 1px solid #fff;\"",
+			"cal_pick_start",
+			"cal_pick",
+			"\");?>\n",
+			"table_sections",
+			"table",
+			"],$",
+			"^[   ",
+			"^[ .*,",
+			"^.*,",
+			"s$",
+			"include",
+			"logo",
+			"display_circle",
+			"current_level",
+			"locations",
+			"GET",
+			"mapped_location like ",
+			"(mapped_location like ",
+			"mapped_location like ",
+			"like (",
+			"mapped_location",
+			"yesterday",
+			"level",
+			"currentSelectedRow_levels",
+			"updateChart",
+			"filterStr",
+			"like",
+			"titleStr",
+			"filterStr",
+			"Repeated Clients ",
+			"getLevelData",
+			"str",
+			"drawChart",
+			"split",
+			"getChartData",
+			"chartType",
+			"<br>",
+			"trs_level",
+			"RowLevelClick",
+			"bootstrap.min.js",
+			"picker",
+			"jquery-ui-timepicker-addon.js",
+			"timepicker",
+			"datepicker",
+			"cal_pick_end",
+			"date_picker",
+			"RowLevelClick",
+			"zipFilesList",
+			"addZipFileName",
+			"zipFilesList",
+			"keys",
+			"watcher",
+			"WatchKey",
+			"schema",
+			"WatchingDirectory",
+			"schema",
+			"footer_view",
+			"body",
+			"transition_to",
+			"participant_spec",
+			"experiment_id_seq",
+			"varying(1)",
+			"bep_pool_id_seq",
+			"sand_box",
+			"bep_pool_id_seq",
+			"bep.properties",
+			"bep_pool_id_seq",
+			"test_mode",
+			"bep.propertie",
+			"BEP_CONFIG_FILE",
+			"test_mode",
+			"bep.properties",
+			"BEP_CONFIG_FILE",
+			"file_get_contents",
+			"bep.properties",
+			"doLogin",
+			"Log",
+			"*",
+			"vendor_details.sql*"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"250px",
+			"",
+			"100",
+			"",
+			"<tr class=\"menu-row\" ",
+			"<tr class=\"menu-row\"",
+			"class=\"menu-row\"",
+			"start_date",
+			"cal_pick_start",
+			"\"\"",
+			"",
+			"htmlTb",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "user_guide/installation/upgrading.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 40184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								726,
+								726
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/thuynhquang/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4570,
+								4570
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 913.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "PortalAnalytics.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bar",
+				"barchart_tl.php"
+			],
+			[
+				"time",
+				"timeseries_chart.php"
+			],
+			[
+				"aip",
+				"api.php"
+			],
+			[
+				"db",
+				"db.php"
+			],
+			[
+				"nav",
+				"includes\\navbar.php"
+			],
+			[
+				"s",
+				"session.php"
+			],
+			[
+				"ts_dai",
+				"ts_daily_api.php"
+			],
+			[
+				"daa",
+				"Database.php"
+			],
+			[
+				"com",
+				"combo_chart.php"
+			],
+			[
+				"tl",
+				"js\\tlHourlyChartDrawer.js"
+			],
+			[
+				"mu",
+				"js\\multiselect_table.js"
+			],
+			[
+				"na",
+				"includes\\navbar.php"
+			],
+			[
+				"con",
+				"configuration.ini"
+			],
+			[
+				"comp",
+				"combo_chart.php"
+			],
+			[
+				"inde",
+				"code\\index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 303.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

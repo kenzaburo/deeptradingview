@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+			 "follow_symlinks": true
+		}
+	],
+	"settings": {
+        "xdebug": {
+             "url": "http://localhost:8080/PortalAnalytics/",
+        }
+    }
+
+}

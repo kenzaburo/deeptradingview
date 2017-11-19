@@ -1,0 +1,16 @@
+* * * * * (echo "---\n" >>/Users/trunghuynh/cron.log && curl https://localhost/projects/coinmaster/backend/index.php/api/data/bitfinex/trade/btc/usd/0 >>/Users/trunghuynh/cron.log)
+
+* * * * * (echo "---\n" >>/Users/trunghuynh/cron.log && curl https://localhost/projects/coinmaster/backend/index.php/api/data/bitfinex/trade/eth/usd/1 >>/Users/trunghuynh/cron.log)
+* * * * * (echo "---\n" >>/Users/trunghuynh/cron.log && curl https://localhost/projects/coinmaster/backend/index.php/api/data/bitfinex/trade/etc/usd/1 >>/Users/trunghuynh/cron.log)
+* * * * * (echo "---\n" >>/Users/trunghuynh/cron.log && curl https://localhost/projects/coinmaster/backend/index.php/api/data/bitfinex/trade/ltc/usd/1 >>/Users/trunghuynh/cron.log)
+* * * * * (echo "---\n" >>/Users/trunghuynh/cron.log && curl https://localhost/projects/coinmaster/backend/index.php/api/data/bitfinex/trade/xmr/usd/1 >>/Users/trunghuynh/cron.log)
+* * * * * (echo "---\n" >>/Users/trunghuynh/cron.log && curl https://localhost/projects/coinmaster/backend/index.php/api/data/bitfinex/trade/zec/usd/1 >>/Users/trunghuynh/cron.log)
+* * * * * (echo "---\n" >>/Users/trunghuynh/cron.log && curl https://localhost/projects/coinmaster/backend/index.php/api/data/bitfinex/trade/xrp/usd/1 >>/Users/trunghuynh/cron.log)
+
+* * * * * (echo "---\n" >>/Users/trunghuynh/cron.log && curl https://localhost/projects/coinmaster/backend/index.php/api/data/bitfinex/trade/eth/btc/1 >>/Users/trunghuynh/cron.log)
+* * * * * (echo "---\n" >>/Users/trunghuynh/cron.log && curl https://localhost/projects/coinmaster/backend/index.php/api/data/bitfinex/trade/etc/btc/1 >>/Users/trunghuynh/cron.log)
+* * * * * (echo "---\n" >>/Users/trunghuynh/cron.log && curl https://localhost/projects/coinmaster/backend/index.php/api/data/bitfinex/trade/ltc/btc/1 >>/Users/trunghuynh/cron.log)
+* * * * * (echo "---\n" >>/Users/trunghuynh/cron.log && curl https://localhost/projects/coinmaster/backend/index.php/api/data/bitfinex/trade/xmr/btc/1 >>/Users/trunghuynh/cron.log)
+* * * * * (echo "---\n" >>/Users/trunghuynh/cron.log && curl https://localhost/projects/coinmaster/backend/index.php/api/data/bitfinex/trade/zec/btc/1 >>/Users/trunghuynh/cron.log)
+* * * * * (echo "---\n" >>/Users/trunghuynh/cron.log && curl https://localhost/projects/coinmaster/backend/index.php/api/data/bitfinex/trade/xrp/btc/1 >>/Users/trunghuynh/cron.log)
+

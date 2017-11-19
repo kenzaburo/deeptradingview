@@ -1,0 +1,36 @@
+[
+	{
+		"name": "Heatmap",
+		"url": "heatmap"
+	},
+	{
+		"name": "Daily Trend",
+		"url": "daily_trend"
+	},
+	{
+		"name": "Hourly Trend",
+		"url": "hourly_trend"
+	},
+	{
+		"name": "Visit Frequency",
+		"url": "visit_frequency"
+	},
+	{
+		"name": "Occupancy",
+		"url": "occupancy"
+	},
+	{
+		"name": "Transition",
+		"url": "transition"
+	},
+	{
+		"name": "Dwell Time",
+		"url": "dwell_time"
+	},
+	{
+		"name": "LiveLabs Analytics",
+		"url": "livelabs_analytics"
+	}
+
+]
+

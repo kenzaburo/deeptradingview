@@ -37,6 +37,7 @@ class Bitfinex_model extends CI_Model
         }
     }
 
+
     function get_trade_data_v1($start_time, $end_time, $left, $right,$type)
     {
             $limit = 1000;
@@ -56,7 +57,6 @@ class Bitfinex_model extends CI_Model
 
 
                 $result = json_decode($result);
-
 
                 // check call is okay or not 
                 if(!is_array($result)){
@@ -91,6 +91,10 @@ class Bitfinex_model extends CI_Model
                 $e_time = date('Y/m/d H:i:s', $end_time);
                 $buy_price_avg = ($buy_count == 0) ? 0: ($buy_price_sum)/($buy_count);
                 $sell_price_avg = ($sell_count == 0) ? 0: ($sell_price_sum)/($sell_count);
+
+                if($sell_count == 0 && $buy_count == 0){
+                    return array("data"=>"");
+                }
                 $data = array(
                             "type" => $type,
                             "left_pair" => $left_pair,
@@ -111,7 +115,7 @@ class Bitfinex_model extends CI_Model
                 $result  = array('error_code' => $e->getCode() ,'error_msg' => $e->getMessage() );
             }
 
-        return array("buy"=>$data1,"sell"=>$data2);
+        return array("data"=>$data);
         
     }
 

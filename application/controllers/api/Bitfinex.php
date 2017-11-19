@@ -41,7 +41,7 @@ class Bitfinex extends REST_Controller
             'data' => $data
         ];
 
-        log_message('info', 'result '.$data, false);
+        log_message('info', $data['data_length'], false);
         $this->set_response($message, REST_Controller::HTTP_BAD_REQUEST);
     }
 

@@ -62,8 +62,7 @@ class Bitfinex_model extends CI_Model
 
                 // check call is okay or not 
                 if(!is_array($result)){
-                    return array("faled to call query");
-
+                    return array("data_length"=>"failed to call query");
                 } 
 
                 //
@@ -97,7 +96,7 @@ class Bitfinex_model extends CI_Model
                 $sell_price_avg = ($sell_count == 0) ? 0: ($sell_price_sum)/($sell_count);
 
                 if($sell_count == 0 && $buy_count == 0){
-                    return array("data"=>"");
+                    return array("data_length"=>"0");
                 }
 
                 $data = array(
@@ -117,7 +116,7 @@ class Bitfinex_model extends CI_Model
                 $result  = array('error_code' => $e->getCode() ,'error_msg' => $e->getMessage() );
             }
 
-        return array("data.length"=>$total_trade_count);
+        return array("data_length"=>$total_trade_count);
         
     }
 

@@ -6,6 +6,7 @@ import json
 import psycopg2
 import sys
 import pprint
+import datetime
 
 #Define our connection string
 conn_string = "host='35.198.237.29' dbname='bfntradingview' user='postgres' password='deeptradingview'"
@@ -33,8 +34,9 @@ def on_message(ws, message):
         
 
        
-
-        string_values = "(" + str(value['CHANNEL_ID']) +",'"+value['CODE']+"','"+value['SEQ'].split("-")[1]+"',"+str(value['ID'])+','+str(value['TIMESTAMP'])+','+str(value['PRICE'])+','+str(value['±AMOUNT'])+")"
+        time = datetime.datetime.fromtimestamp( int(value['TIMESTAMP'])).strftime('%Y-%m-%d %H:%M:%S')
+        print(time);
+        string_values = "(" + str(value['CHANNEL_ID']) +",'"+value['CODE']+"','"+value['SEQ'].split("-")[1]+"',"+str(value['ID'])+",'"+time+"',"+str(value['PRICE'])+','+str(value['±AMOUNT'])+")"
         # execute our Query
         query = "insert into bitfinex.realtime_trades (channel_id,code,sequence,id,timestamp,price,amount) values " + string_values
         cursor.execute(query)

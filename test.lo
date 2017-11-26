@@ -1,0 +1,42 @@
+--- request header ---
+GET /ws HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: api.bitfinex.com
+Origin: http://api.bitfinex.com
+Sec-WebSocket-Key: Jj4S4RsS8xxDufONJ4ajIA==
+Sec-WebSocket-Version: 13
+
+
+-----------------------
+--- response header ---
+HTTP/1.1 101 Switching Protocols
+Date: Tue, 21 Nov 2017 06:00:31 GMT
+Connection: upgrade
+Set-Cookie: __cfduid=d302f53fbaedc521fbd7506403b0350e01511244031; expires=Wed, 21-Nov-18 06:00:31 GMT; path=/; domain=.bitfinex.com; HttpOnly
+Upgrade: websocket
+Sec-WebSocket-Accept: Je/3b3IPFYK+HPYO7gggeDbvWYo=
+Sec-WebSocket-Version: 13
+WebSocket-Server: uWebSockets
+Server: cloudflare-nginx
+CF-RAY: 3c116dde0c32318c-SIN
+-----------------------
+send: b'\x81\xbd\x11\x08U\xc4j*0\xb2tf!\xe6+(w\xb7dj&\xa7ca7\xa13$u\xe6r`4\xaa\x7fm9\xe6+(w\xb0ci1\xa1b*y\xe43x4\xadc*o\xe43J\x01\x87D[\x11\xe6l'
+send: b'\x81\xbd@.\xae\xd6;\x0c\xcb\xa0%@\xda\xf4z\x0e\x8c\xa55L\xdd\xb52G\xcc\xb3b\x02\x8e\xf4#F\xcf\xb8.K\xc2\xf4z\x0e\x8c\xa22O\xca\xb33\x0c\x82\xf6b^\xcf\xbf2\x0c\x94\xf6bb\xfa\x95\x15}\xea\xf4='
+send: b'\x81\xbd\x9b\xd0H9\xe0\xf2-O\xfe\xbe<\x1b\xa1\xf0jJ\xee\xb2;Z\xe9\xb9*\\\xb9\xfch\x1b\xf8\xb8)W\xf5\xb5$\x1b\xa1\xf0jM\xe9\xb1,\\\xe8\xf2d\x19\xb9\xa0)P\xe9\xf2r\x19\xb9\x95\x1cq\xce\x83\x0c\x1b\xe6'
+error from callback <function on_message at 0x7f850bffa510>: 1
+  File "/usr/lib/python3/dist-packages/websocket/_app.py", line 269, in _callback
+    callback(self, *args)
+  File "testWSBFN.py", line 11, in on_message
+    is_tu = response[1] == 'tu'
+error from callback <function on_message at 0x7f850bffa510>: 1
+  File "/usr/lib/python3/dist-packages/websocket/_app.py", line 269, in _callback
+    callback(self, *args)
+  File "testWSBFN.py", line 11, in on_message
+    is_tu = response[1] == 'tu'
+error from callback <function on_message at 0x7f850bffa510>: 1
+  File "/usr/lib/python3/dist-packages/websocket/_app.py", line 269, in _callback
+    callback(self, *args)
+  File "testWSBFN.py", line 11, in on_message
+    is_tu = response[1] == 'tu'
+error from callback <function on_message at 0x7f850bffa510>: 1

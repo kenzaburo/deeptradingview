@@ -52,7 +52,7 @@ def run():
     ws.run_forever()
 
 #Open Connection to the Server
-conn_string = "host='35.198.237.29' dbname='bfntradingview' user='postgres' password='deeptradingview'"
+conn_string = "host='localhost' dbname='bfntradingview' user='postgres' password='deeptradingview'"
 
 print("Connecting to database\n	->%s" % (conn_string))
 conn = psycopg2.connect(conn_string)

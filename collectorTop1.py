@@ -9,7 +9,7 @@ import pprint
 import datetime
 
 #Define our connection string
-conn_string = "host='35.198.237.29' dbname='bfntradingview' user='postgres' password='deeptradingview'"
+conn_string = "host='localhost' dbname='bfntradingview' user='postgres' password='deeptradingview'"
 
 # print the connection string we will use to connect
 # print "Connecting to database\n ->%s" % (conn_string)
